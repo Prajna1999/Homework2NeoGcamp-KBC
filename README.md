@@ -1,0 +1,1 @@
+It's a rudimentary "Kaun Banega Crorepati" type game where each question has four options out of which only one is the correct answer. I have used a workaround to show the four options to the quiz-taker. Looking for a more robust permanent solution to this. 
